@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Djoeragan Ternak",
+  "description": "Platform marketplace peternakan modern untuk jual beli hewan ternak, pakan, dan perlengkapan dengan asisten AI pintar.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
